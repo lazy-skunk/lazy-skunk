@@ -17,10 +17,11 @@
 </p>
 
 - 🔭 I’m currently working on [leetcode](https://github.com/lazy-skunk/leetcode)
+  _Note: This repository is private, so it is not accessible. Thank you for your understanding!_
 - 🌱 I’m currently learning **Data structure, algorithm and Ruby on Rails**
 - 📝
   I regularly write articles on
-  [https://lazy-skunk.hatenablog.com/](https://lazy-skunk.hatenablog.com/)
+  [hatenablog](https://lazy-skunk.hatenablog.com/) or [qiita](https://qiita.com/lazy_skunk)
 - 💬
   Ask me about **Python**
 - ⚡ Fun fact **I think I am funny**
@@ -51,7 +52,7 @@
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
       alt="flask"
