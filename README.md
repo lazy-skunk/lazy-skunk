@@ -16,8 +16,8 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [leetcode](https://github.com/lazy-skunk/leetcode)
-  _Note: This repository is private, so it is not accessible. Thank you for your understanding!_
+- 🔭 I’m currently working on [nutrients_calculator](https://github.com/lazy-skunk/nutrients_calculator) and [leetcode](https://github.com/lazy-skunk/leetcode)
+  _Note: 'leetcode' is private, so it is not accessible. Thank you for your understanding, and sorry about that!_
 - 🌱 I’m currently learning **Data structure, algorithm and Ruby on Rails**
 - 📝
   I regularly write articles on
