@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Data structure, algorithm and Ruby on Rails**
 - 📝
   I regularly write articles on
-  [hatenablog](https://lazy-skunk.hatenablog.com/) or [qiita](https://qiita.com/lazy_skunk)
+  [Hatena Blog](https://lazy-skunk.hatenablog.com/) or [Qiita](https://qiita.com/lazy_skunk)
 - 💬
   Ask me about **Python**
 - ⚡ Fun fact **I think I am funny**
