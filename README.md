@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [nutrition_optimizer](https://github.com/lazy-skunk/nutrition_optimizer) and [leetcode](https://github.com/lazy-skunk/leetcode)
   _Note: 'leetcode' is private, so it is not accessible. Thank you for your understanding, and sorry about that!_
-- 🌱 I’m currently learning **Data structure, algorithm and django**
+- 🌱 I’m currently learning **data structure, algorithm and django**
 - 📝
   I regularly write articles on
   [Hatena Blog](https://lazy-skunk.hatenablog.com/) or [Qiita](https://qiita.com/lazy_skunk)
