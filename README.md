@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on private repositories.
 - 🌱 I’m currently learning data structure, algorithm and data analysis.
 - 📝 I regularly write articles on [Hatena Blog](https://lazy-skunk.hatenablog.com/) or [Qiita](https://qiita.com/lazy_skunk)
+- 🔧 I built [Conventional Commits Composer](https://conventional-commits-composer.vercel.app/),  
+  a small web tool to compose conventional commit messages (just a simple helper, not strict).
 
 ---
 
