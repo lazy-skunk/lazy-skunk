@@ -12,6 +12,8 @@
   A small web tool to compose conventional commit messages (just a simple helper, not strict).
 - 🧩 [Sudoku](https://number-place.vercel.app/)  
   A minimum viable Sudoku app.
+- 🍅 [Pomodoro Timer](https://ripen-pomodoro.vercel.app/)  
+  Grow with Pomodoro: a timer to focus, take breaks, and build better habits.
 
 ---
 
