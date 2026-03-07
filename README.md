@@ -14,6 +14,8 @@
   A minimum viable Sudoku app.
 - 🍅 [Pomodoro Timer](https://ripen-pomodoro.vercel.app/)  
   Grow with Pomodoro: a timer to focus, take breaks, and build better habits.
+- 🎵 [Tempo Keeper](https://tempo-keeper.vercel.app/)  
+  A simple tempo tool to keep steady rhythm while practicing.
 
 ---
 
