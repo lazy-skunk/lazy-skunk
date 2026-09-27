@@ -16,6 +16,8 @@
   Grow with Pomodoro: a timer to focus, take breaks, and build better habits.
 - 🎵 [Tempo Keeper](https://tempo-keeper.vercel.app/)  
   A simple tempo tool to keep steady rhythm while practicing.
+- 🌎 [Celestial Merge](https://lazy-skunk.github.io/celestial-merge/)  
+  A physics puzzle game where matching celestial bodies merge into larger ones.
 
 ---
 
