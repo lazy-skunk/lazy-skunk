@@ -29,5 +29,6 @@
 
 ## Statistics
 
-![Top Languages Card](https://github-stats-extended.vercel.app/api/top-langs?username=lazy-skunk&layout=compact&card_width=495&theme=dark)  
+![Top Languages Card](https://github-stats-extended.vercel.app/api/top-langs?username=lazy-skunk&layout=compact&card_width=495&theme=dark)
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=lazy-skunk&theme=dark&timezone=JST)
